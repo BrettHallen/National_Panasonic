@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+133.27,-65.993,90.0,top,J1,,,SDF80J,JR-200 Video,tht
+115.675,-69.809338,-90.0,top,J2,,,DSUB-15-HD_Socket_Horizontal_P2.29x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm,RGB,tht
+110.9205,-87.376,-90.0,top,J3,,,1560099E,Composite,tht

@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,JR-200 Video,SDF80J,,,,tht,
+J2,1,RGB,DSUB-15-HD_Socket_Horizontal_P2.29x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm,,,,tht,"15-pin D-SUB connector, socket (female), High density (3 columns), Triple Row, Generic, VGA-connector, Mounting Hole"
+J3,1,Composite,1560099E,,,,tht,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
