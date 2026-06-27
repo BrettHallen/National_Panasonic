@@ -1,0 +1,11 @@
+.DS_Store
+/National_JR-200/JR-200_DIN-to-VGA/JR-200_DIN-to-VGA-backups
+National_JR-200/JR-200_DIN-to-VGA/sym-lib-table
+*.kicad_prl
+*.bak
+National_JR-200/JR-200_RS232/sym-lib-table
+National_JR-200/JR-200_SD/fp-info-cache
+National_JR-200/JR-200_SD/fp-lib-table
+/National_JR-200/JR-200_SD/JR-200_SD-backups
+/National_JR-200/Markku_Panana/Markku_Panana-backups
+National_JR-200/Markku_Panana/sym-lib-table
